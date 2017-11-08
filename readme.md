@@ -1,17 +1,17 @@
 ### Install Dependencies To Test
 
 ```bash
-npm install
+$ npm install
 ```
 
 ### Run Tests Without Watcher
 
 ```bash
-npm test
+$ npm test
 ```
 
 ### Run Tests With Watcher Active
 
 ```bash
-npm run watch
+$ npm run watch
 ```
